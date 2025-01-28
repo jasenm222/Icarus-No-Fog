@@ -26,7 +26,7 @@ You can also download the engine.ini files directly or copy-paste the contents t
 
 ![407115277-aa1e9141-6eb8-4ce1-bbe3-9b132f2b84d2](https://github.com/user-attachments/assets/0fdf3428-01d6-4140-8f08-5c8981e4d4fc)
 
-These modifications only effect Prometheus and can be seen on Character select screen. Here is what No Fog and No Volumetric fog looks like on the character screen
+
 
 ![407115710-1fc15ef0-f4d8-466e-a31f-28286d32eecc](https://github.com/user-attachments/assets/3e537546-522f-4af9-8702-2e29165d45cb)
 
